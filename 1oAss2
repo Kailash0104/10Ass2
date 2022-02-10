@@ -1,0 +1,8 @@
+#program to print given number is positive or negative number.
+num=int(input("enter any number:"))
+if (num>0):
+    #if condition is true
+  print("given number is positive")
+  #if condition is false
+else:
+  print ("given number is negetive")
